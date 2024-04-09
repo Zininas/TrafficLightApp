@@ -12,6 +12,7 @@
 		A1A4E7512BB86AD700A5E429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1A4E7502BB86AD700A5E429 /* Assets.xcassets */; };
 		A1A4E7542BB86AD700A5E429 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1A4E7532BB86AD700A5E429 /* Preview Assets.xcassets */; };
 		A1A4E75B2BB8A2E900A5E429 /* TraffickLightSignalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A4E75A2BB8A2E900A5E429 /* TraffickLightSignalView.swift */; };
+		A1F6D3AA2BC59F5F00A4E72E /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F6D3A92BC59F5F00A4E72E /* StartButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A1A4E7502BB86AD700A5E429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1A4E7532BB86AD700A5E429 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A1A4E75A2BB8A2E900A5E429 /* TraffickLightSignalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraffickLightSignalView.swift; sourceTree = "<group>"; };
+		A1F6D3A92BC59F5F00A4E72E /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				A1A4E74C2BB86AD600A5E429 /* TrafficLightApp.swift */,
 				A1A4E74E2BB86AD600A5E429 /* ContentView.swift */,
+				A1F6D3A92BC59F5F00A4E72E /* StartButtonView.swift */,
 				A1A4E75A2BB8A2E900A5E429 /* TraffickLightSignalView.swift */,
 				A1A4E7502BB86AD700A5E429 /* Assets.xcassets */,
 				A1A4E7522BB86AD700A5E429 /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1A4E75B2BB8A2E900A5E429 /* TraffickLightSignalView.swift in Sources */,
+				A1F6D3AA2BC59F5F00A4E72E /* StartButtonView.swift in Sources */,
 				A1A4E74F2BB86AD600A5E429 /* ContentView.swift in Sources */,
 				A1A4E74D2BB86AD600A5E429 /* TrafficLightApp.swift in Sources */,
 			);
